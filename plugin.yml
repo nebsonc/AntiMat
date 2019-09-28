@@ -1,7 +1,7 @@
-name: cwAntiMat
+name: AntiMat
 main: BeyCoder\AntiMatManager
 author: BlusterySasha
-version: "1.0"
+version: "0.0.2"
 load: POSTWORLD
 api:
   - 2.0.0
